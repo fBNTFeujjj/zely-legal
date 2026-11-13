@@ -131,7 +131,7 @@ In the event of a dispute, the parties will endeavor to reach an amicable resolu
 
 For questions, requests, or concerns regarding ZELY or these Terms of Service, please contact the ZELY team through its official Discord support server.
 
-**Official Support:** [INSERT DISCORD SUPPORT SERVER URL]
+**Official Support:** https://discord.gg/fvrs2djgSN
 
 ---
 
