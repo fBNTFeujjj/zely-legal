@@ -8,8 +8,8 @@ This repository provides access to the legal documents governing the use of ZELY
 
 | Document | Description |
 |:---|:---|
-| [Terms of Service](TERMS_OF_SERVICE.md) | Rules and conditions governing the use of ZELY. |
-| [Privacy Policy](PRIVACY_POLICY.md) | Information about data collection, storage, processing and deletion. |
+| [Terms of Service](terms-of-service.md) | Rules and conditions governing the use of ZELY. |
+| [Privacy Policy](privacy-policy.md) | Information about data collection, storage, processing and deletion. |
 
 ## 💬 Support
 
