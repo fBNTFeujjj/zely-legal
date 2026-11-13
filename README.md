@@ -25,8 +25,12 @@ The latest versions will always be available in this repository.
 
 ---
 
-<p align="center">
-  **ZELY — Simple. Modern. Reliable.**
-  <br>
-  © 2026 ZELY. All rights reserved.
-</p>
+<div align="center">
+
+**ZELY**
+
+*Simple. Modern. Reliable.*
+
+© 2026 ZELY. All rights reserved.
+
+</div>
